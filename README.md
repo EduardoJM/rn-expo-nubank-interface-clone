@@ -34,6 +34,29 @@ Algumas das coisas aprendidas com esse projeto foram:
 
 - Adequação, em algumas partes, de uma versão antiga de um pacote para uma mais recente, visto que o vídeo da Rocketseat é um pouco antigo e existem atualizações nos pacotes que vieram depois do vídeo.
 
+## :computer: Executando o projeto
+
+### 1 - Clone o repositório
+
+```bash
+git clone https://github.com/EduardoJM/rn-expo-nubank-interface-clone.git
+```
+
+### 2 - Instalar as dependências
+
+```bash
+cd rn-expo-nubank-interface-clone
+yarn
+```
+
+### 3 - Executar o app
+
+```bash
+yarn start
+```
+
+Aguarde o projeto incializar, escaneie o QRCode que irá aparecer no terminal com o app **Expo** disponível na PlayStore e aguarde a compilação do JavaScript e o Download para o aparelho. Pronto, o app já está sendo executado.
+
 ## :nerd_face: Author
 
 ### Eduardo Oliveira
